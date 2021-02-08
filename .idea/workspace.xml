@@ -1,6 +1,300 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e67e4aa-8e02-4ed0-8f53-eb2f07a32a73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/create.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/java/test-assignment/java_count_odd_positions/java_count_odd_positions.code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/java/test-assignment/java_count_odd_positions/java_count_odd_positions.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/java/test-assignment/java_count_odd_positions/java_count_odd_positions.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/java/test-assignment/java_count_odd_positions/java_count_odd_positions.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/java/test-assignment/java_find_smallest_element/java_find_smallest_element.code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/java/test-assignment/java_find_smallest_element/java_find_smallest_element.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/java/test-assignment/java_find_smallest_element/java_find_smallest_element.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/java/test-assignment/java_find_smallest_element/java_find_smallest_element.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/java/test-assignment/java_get_string_length/java_get_string_length.code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/java/test-assignment/java_get_string_length/java_get_string_length.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/java/test-assignment/java_get_string_length/java_get_string_length.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/java/test-assignment/java_get_string_length/java_get_string_length.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/java/test-assignment/java_string_has_none_letters/java_string_has_none_letters.code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/java/test-assignment/java_string_has_none_letters/java_string_has_none_letters.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/java/test-assignment/java_string_has_none_letters/java_string_has_none_letters.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/java/test-assignment/java_string_has_none_letters/java_string_has_none_letters.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/java/test-assignment/java_string_last_character/java_string_last_character.code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/java/test-assignment/java_string_last_character/java_string_last_character.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/java/test-assignment/java_string_last_character/java_string_last_character.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/java/test-assignment/java_string_last_character/java_string_last_character.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/exam/js_array_of_digits/js_array_of_digits.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/exam/js_array_of_digits/js_array_of_digits.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/exam/js_array_of_digits/js_array_of_digits.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/exam/js_count_occurrences/js_count_occurrences.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/exam/js_count_occurrences/js_count_occurrences.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/exam/js_count_occurrences/js_count_occurrences.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/exam/js_parents_filter_factory/js_parents_filter_factory.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/exam/js_parents_filter_factory/js_parents_filter_factory.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/exam/js_parents_filter_factory/js_parents_filter_factory.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/exam/js_people_with_parents/js_people_with_parents.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/exam/js_people_with_parents/js_people_with_parents.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/exam/js_people_with_parents/js_people_with_parents.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/exam/js_pretty_array/js_pretty_array.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/exam/js_pretty_array/js_pretty_array.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/exam/js_pretty_array/js_pretty_array.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/exam/js_storage/js_storage.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/exam/js_storage/js_storage.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/exam/js_storage/js_storage.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_count_matching_socks/js_count_matching_socks.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_count_matching_socks/js_count_matching_socks.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_count_matching_socks/js_count_matching_socks.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_count_matching_socks/js_count_matching_socks.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_double_array/js_double_array.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_double_array/js_double_array.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_double_array/js_double_array.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_double_array/js_double_array.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_fake_binary/js_fake_binary.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_fake_binary/js_fake_binary.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_fake_binary/js_fake_binary.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_fake_binary/js_fake_binary.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_find_the_longest_name/js_find_the_longest_name.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_find_the_longest_name/js_find_the_longest_name.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_find_the_longest_name/js_find_the_longest_name.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_find_the_longest_name/js_find_the_longest_name.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_format_credit_card_number/js_format_credit_card_number.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_format_credit_card_number/js_format_credit_card_number.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_format_credit_card_number/js_format_credit_card_number.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_format_credit_card_number/js_format_credit_card_number.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_has_only_positive_numbers/js_has_only_positive_numbers.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_has_only_positive_numbers/js_has_only_positive_numbers.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_has_only_positive_numbers/js_has_only_positive_numbers.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_has_only_positive_numbers/js_has_only_positive_numbers.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_is_palindrome/js_is_palindrome.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_is_palindrome/js_is_palindrome.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_is_palindrome/js_is_palindrome.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_is_palindrome/js_is_palindrome.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_is_prime/js_is_prime.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_is_prime/js_is_prime.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_is_prime/js_is_prime.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_is_prime/js_is_prime.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_no_zero_for_heroes/js_no_zero_for_heroes.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_no_zero_for_heroes/js_no_zero_for_heroes.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_no_zero_for_heroes/js_no_zero_for_heroes.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_no_zero_for_heroes/js_no_zero_for_heroes.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_range_of_integers/js_range_of_integers.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_range_of_integers/js_range_of_integers.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_range_of_integers/js_range_of_integers.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_range_of_integers/js_range_of_integers.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_remove_first_and_last/js_remove_first_and_last.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_remove_first_and_last/js_remove_first_and_last.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_remove_first_and_last/js_remove_first_and_last.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_remove_first_and_last/js_remove_first_and_last.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_return_negative/js_return_negative.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_return_negative/js_return_negative.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_return_negative/js_return_negative.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_return_negative/js_return_negative.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_string_length/js_string_length.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_string_length/js_string_length.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_string_length/js_string_length.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_string_length/js_string_length.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_sum/js_sum.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_sum/js_sum.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_sum/js_sum.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_sum/js_sum.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_take_odd_numbers/js_take_odd_numbers.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_take_odd_numbers/js_take_odd_numbers.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_take_odd_numbers/js_take_odd_numbers.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_take_odd_numbers/js_take_odd_numbers.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_volumes_of_cuboids/js_volumes_of_cuboids.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_volumes_of_cuboids/js_volumes_of_cuboids.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_volumes_of_cuboids/js_volumes_of_cuboids.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/js_volumes_of_cuboids/js_volumes_of_cuboids.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/live-coding/tasks-complexity.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/test-assignment/js_calculate_average_country_population/js_calculate_average_country_population.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/test-assignment/js_calculate_average_country_population/js_calculate_average_country_population.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/test-assignment/js_calculate_average_country_population/js_calculate_average_country_population.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/test-assignment/js_calculate_average_country_population/js_calculate_average_country_population.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/test-assignment/js_find_smallest_element/js_find_smallest_element.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/test-assignment/js_find_smallest_element/js_find_smallest_element.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/test-assignment/js_find_smallest_element/js_find_smallest_element.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/test-assignment/js_find_smallest_element/js_find_smallest_element.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/test-assignment/js_get_last_character/js_get_last_character.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/test-assignment/js_get_last_character/js_get_last_character.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/test-assignment/js_get_last_character/js_get_last_character.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/test-assignment/js_get_last_character/js_get_last_character.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/test-assignment/js_get_string_length/js_get_string_length.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/test-assignment/js_get_string_length/js_get_string_length.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/test-assignment/js_get_string_length/js_get_string_length.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/test-assignment/js_get_string_length/js_get_string_length.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/test-assignment/js_has_none_letters/js_has_none_letters.code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/test-assignment/js_has_none_letters/js_has_none_letters.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/test-assignment/js_has_none_letters/js_has_none_letters.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/test-assignment/js_has_none_letters/js_has_none_letters.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_assign_values/assignValues.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_assign_values/js_assign_values.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_assign_values/js_assign_values.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_assign_values/js_assign_values.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_assignment_operators/assignmentOperators.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_assignment_operators/js_assignment_operators.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_assignment_operators/js_assignment_operators.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_assignment_operators/js_assignment_operators.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_break_line/breakLine.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_break_line/js_break_line.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_break_line/js_break_line.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_break_line/js_break_line.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_can_stay_home/canStayHome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_can_stay_home/js_can_stay_home.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_can_stay_home/js_can_stay_home.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_can_stay_home/js_can_stay_home.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_comment_code/commentCode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_comment_code/js_comment_code.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_comment_code/js_comment_code.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_comment_code/js_comment_code.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_declare_boolean/declareBoolean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_declare_boolean/js_declare_boolean.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_declare_boolean/js_declare_boolean.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_declare_boolean/js_declare_boolean.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_declare_variables/declareVariables.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_declare_variables/js_declare_variables.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_declare_variables/js_declare_variables.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_declare_variables/js_declare_variables.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_escape_string/escapeString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_escape_string/js_escape_string.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_escape_string/js_escape_string.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_escape_string/js_escape_string.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_hello_world/helloWorld.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_hello_world/js_hello_world.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_hello_world/js_hello_world.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_hello_world/js_hello_world.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_infinite_nan/infiniteNan.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_infinite_nan/js_infinite_nan.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_infinite_nan/js_infinite_nan.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_infinite_nan/js_infinite_nan.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_loop_for/js_loop_for.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_loop_for/js_loop_for.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_loop_for/js_loop_for.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_loop_for/loopFor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_make_cake/js_make_cake.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_make_cake/js_make_cake.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_make_cake/js_make_cake.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_make_cake/makeCake.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_make_tea/js_make_tea.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_make_tea/js_make_tea.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_make_tea/js_make_tea.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_make_tea/makeTea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_modulus_exponentiation/js_modulus_exponentiation.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_modulus_exponentiation/js_modulus_exponentiation.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_modulus_exponentiation/js_modulus_exponentiation.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_modulus_exponentiation/modulusExponentiation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_numbers_operators/js_numbers_operators.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_numbers_operators/js_numbers_operators.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_numbers_operators/js_numbers_operators.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_numbers_operators/numbersOperators.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_numeral_systems/js_numeral_systems.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_numeral_systems/js_numeral_systems.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_numeral_systems/js_numeral_systems.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_numeral_systems/numeralSystems.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_parentheses/js_parentheses.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_parentheses/js_parentheses.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_parentheses/js_parentheses.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_parentheses/parentheses.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_string_concat/js_string_concat.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_string_concat/js_string_concat.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_string_concat/js_string_concat.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_string_concat/stringConcat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_string_interpolation/js_string_interpolation.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_string_interpolation/js_string_interpolation.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_string_interpolation/js_string_interpolation.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_string_interpolation/stringInterpolation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_string_literal/js_string_literal.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_string_literal/js_string_literal.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_string_literal/js_string_literal.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_string_literal/stringLiteral.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_variable_type/js_variable_type.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_variable_type/js_variable_type.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_variable_type/js_variable_type.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/javascript/topic_tasks/js_variable_type/variableType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/live-coding/python_even_chars/python_even_chars.code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/live-coding/python_even_chars/python_even_chars.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/live-coding/python_even_chars/python_even_chars.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/live-coding/python_even_chars/python_even_chars.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/live-coding/python_find_smallest_item/python_find_smallest_item.code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/live-coding/python_find_smallest_item/python_find_smallest_item.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/live-coding/python_find_smallest_item/python_find_smallest_item.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/live-coding/python_find_smallest_item/python_find_smallest_item.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/live-coding/python_first_upper/python_first_upper.code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/live-coding/python_first_upper/python_first_upper.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/live-coding/python_first_upper/python_first_upper.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/live-coding/python_first_upper/python_first_upper.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/live-coding/python_swap_items/python_swap_items.code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/live-coding/python_swap_items/python_swap_items.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/live-coding/python_swap_items/python_swap_items.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/live-coding/python_swap_items/python_swap_items.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/test-assignment/python_decode_morse/python_decode_morse.code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/test-assignment/python_decode_morse/python_decode_morse.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/test-assignment/python_decode_morse/python_decode_morse.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/test-assignment/python_decode_morse/python_decode_morse.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/test-assignment/python_get_three_largest/python_get_three_largest.code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/test-assignment/python_get_three_largest/python_get_three_largest.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/test-assignment/python_get_three_largest/python_get_three_largest.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/test-assignment/python_get_three_largest/python_get_three_largest.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/test-assignment/python_get_unique_items/python_get_unique_items.code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/test-assignment/python_get_unique_items/python_get_unique_items.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/test-assignment/python_get_unique_items/python_get_unique_items.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/test-assignment/python_get_unique_items/python_get_unique_items.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/test-assignment/python_is_palindrome/python_is_palindrome.code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/test-assignment/python_is_palindrome/python_is_palindrome.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/test-assignment/python_is_palindrome/python_is_palindrome.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/test-assignment/python_is_palindrome/python_is_palindrome.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/test-assignment/python_sum_list_items/python_sum_list_items.code.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/test-assignment/python_sum_list_items/python_sum_list_items.task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/test-assignment/python_sum_list_items/python_sum_list_items.task.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/python/test-assignment/python_sum_list_items/python_sum_list_items.task.uk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lms/lms_tasks-master/tasks.csv" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1oCnjmDF4RvzO4MnVG6cbBf5dQk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e67e4aa-8e02-4ed0-8f53-eb2f07a32a73" name="Default Changelist" comment="" />
+      <created>1612799579877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612799579877</updated>
+      <workItem from="1612799581954" duration="3200000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
