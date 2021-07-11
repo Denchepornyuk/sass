@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e67e4aa-8e02-4ed0-8f53-eb2f07a32a73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DOM basics/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DOM basics/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../events/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../events/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stars/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../next-js-project/pages/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -291,6 +297,8 @@
       <option name="presentableId" value="Default" />
       <updated>1612799579877</updated>
       <workItem from="1612799581954" duration="3200000" />
+      <workItem from="1612853503212" duration="7039000" />
+      <workItem from="1626010968767" duration="200000" />
     </task>
     <servers />
   </component>
