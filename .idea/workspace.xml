@@ -5,6 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67b35759-2c84-46f5-981e-b371582acb78" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/blocks/container.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/blocks/footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/blocks/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/blocks/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/blocks/nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/blocks/page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/blocks/promo.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/utils/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/utils/_variables.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../closure/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../closure/main.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../css_practice/index.html" afterDir="false" />
@@ -30,8 +42,10 @@
       <change afterPath="$PROJECT_DIR$/../js_refresh/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../js_refresh/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEM/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +58,7 @@
         <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="SCSS File" />
       </list>
     </option>
   </component>
@@ -63,9 +78,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/styles" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -76,6 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670670174563</updated>
       <workItem from="1670670175684" duration="308000" />
+      <workItem from="1670916761761" duration="8685000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,77 @@
+.nav {
+  text-align: center;
+
+  &__link {
+    display: block;
+
+    color: $c-white;
+    text-decoration: none;
+    font-size: 1rem;
+
+    padding: 10px 20px;
+    margin: 0 20px;
+
+    transition: 0.3s color;
+
+    &:hover {
+      color: #1fc8db;
+    }
+  }
+
+  &__list {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+
+    height: 0;
+    overflow: hidden;
+  }
+
+  &__toggler {
+    display: block;
+    color: #fff;
+    font-size: 1rem;
+
+    padding: 10px 20px;
+    margin: 0 auto;
+
+    background-color: transparent;
+    border: 0;
+
+    transition: 0.3s color;
+
+    &:before {
+      content: '=';
+    }
+
+    &:hover {
+      color: #1fc8db;
+      cursor: pointer;
+    }
+  }
+
+  &__toggler-check {
+    display: none;
+  }
+
+  &__list--opened &__toggler:before {
+    content: 'x';
+  }
+
+  &__list--opened &__list {
+    height: auto;
+  }
+
+  @include onDesktop {
+    &__list {
+      flex-direction: row;
+      justify-content: center;
+
+      height: auto;
+    }
+
+    &__toggler {
+      display: none;
+    }
+  }
+}
